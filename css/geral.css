@@ -15,7 +15,7 @@
     --shadowOrange:  0px 0px 100px 10px var(--orange);
 }
 *{margin: 0; padding: 0; box-sizing: border-box;}
-html,body{height: 100%; background-color: var(--black);}
+html,body{height: 100%; background-color: var(--gray);}
 a{text-decoration: none;}
 img{display: block; max-width: 100%;}
 ul{list-style-type: none;}
