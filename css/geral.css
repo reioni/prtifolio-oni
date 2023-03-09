@@ -3,12 +3,12 @@
     --orange:#ff8c00;
     --green: #22ee00;
     --black: #0e091b; 
-    --violet: #fff;
+    --violet: #100a49;
     --gray: #110e1b;
     --red: #dc143c;
     --exo: "Exo 2";
     --mono: monospace;
-    --shadowViolet:  0px 0px 50px 10px var(--violet);
+    --shadowViolet:  0px 0px 5px 10px var(--violet);
     --shadowWhite:  0px 0px 100px 10px var(--white);
     --shadowBlack:  0px 0px 100px 10px var(--black);
     --shadowRed:  0px 0px 100px 10px var(--red);
