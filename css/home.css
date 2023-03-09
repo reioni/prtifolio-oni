@@ -111,7 +111,7 @@ section.about{
 .avatar img{
     box-shadow: var(--shadowViolet);
     border-radius: 80%;
-    border: 8px solid var(--white);
+    border: 15px solid var(--white);
 }
 
 .about-text p{
